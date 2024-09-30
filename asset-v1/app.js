@@ -1,4 +1,3 @@
-/* 0.5.4 2021-04-23 21:06:13 */
 var app = new function() {
     this.name = "Alpha", 
     this.version = "1",
