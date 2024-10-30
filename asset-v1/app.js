@@ -1,9 +1,9 @@
 var app = new function() {
-    this.name = "Alpha", 
+    this.name = "Dawnfall", 
     this.version = "1",
-    this.date = "2009", 
+    this.date = "2024", 
     this.folder = "asset-v1/", 
-    this.looptime = 5333,
+    this.looptime = ,
     this.bpm = 90, 
     this.totalframe = 260, 
     this.nbpolo = 7, 
@@ -17,10 +17,10 @@ var app = new function() {
     this.spritepicto = "game-picto.png", 
     this.colBck = "#121212", 
     this.col0 = "#919191", 
-    this.col1 = "#5f5f5f", 
-    this.col2 = "#4b4b4b", 
-    this.col3 = "#373737", 
-    this.col4 = "#232323", 
+    this.col1 = "#FDCE8E", 
+    this.col2 = "#FDCE8E", 
+    this.col3 = "#EB4251", 
+    this.col4 = "#8FC9FF", 
     this.animearray = [], this.bonusarray = [];
     for (var n = 0, o = this.animearray.length; n < o; n++) {
         var a = this.animearray[n].name;
